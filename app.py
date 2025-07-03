@@ -15,10 +15,6 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-# Subtitle
-st.markdown("#### Identify groups of similar customers based on any two numeric features (e.g., Annual Income and Spending Score).")
-
-
 # Sidebar file upload
 st.sidebar.title("🔧 Controls")
 uploaded_file = st.sidebar.file_uploader("📂 Upload your CSV file", type=["csv"])

@@ -40,9 +40,10 @@ The dataset consists of following five features of 200 customers:
 
 - Spending Score (1-100) – Score assigned based on purchasing behavior
 
-screenshots - 
+![image](![image](https://github.com/user-attachments/assets/cfc03d55-7106-4bdf-86ee-425ad80e35b0)
+)
+![image](https://github.com/user-attachments/assets/e1c386e2-2810-4720-bea0-f5c3e905f6d2)
 
-![image](https://github.com/user-attachments/assets/6b8c9a08-f527-44de-9490-fd102edcb2d1)
 
 
 

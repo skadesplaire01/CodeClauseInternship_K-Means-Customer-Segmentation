@@ -39,10 +39,8 @@ The dataset consists of following five features of 200 customers:
 - Annual Income (k$) – Annual income in thousands
 
 - Spending Score (1-100) – Score assigned based on purchasing behavior
-
-![image](![image](https://github.com/user-attachments/assets/cfc03d55-7106-4bdf-86ee-425ad80e35b0)
-)
-![image](https://github.com/user-attachments/assets/e1c386e2-2810-4720-bea0-f5c3e905f6d2)
+  
+image(https://miro.medium.com/v2/resize:fit:720/format:webp/1*vy-H5HmDxma2t3qVJEDfmg.png)
 
 
 

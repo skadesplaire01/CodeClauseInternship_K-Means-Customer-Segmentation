@@ -5,7 +5,7 @@ This project is a Streamlit web application that performs K-Means clustering to 
 🚀 Live Demo
 🔗 https://codeclauseinternshipk-means-customer-segmentation-app-akhane5z.streamlit.app/ 
 
-##📂 Features
+📂 Features
 - Upload your own CSV dataset
 - Select any two numeric features for clustering
 - Visualize the Elbow method to choose the optimal number of clusters
@@ -42,13 +42,16 @@ The dataset consists of following five features of 200 customers:
   
 ![image](https://miro.medium.com/v2/resize:fit:720/format:webp/1*vy-H5HmDxma2t3qVJEDfmg.png)
 
-screenshots : 
+📸screenshots : 
 ![image](https://github.com/user-attachments/assets/2576a09d-9864-4ca8-9bbf-0788c89eb26f)
+
 ![image](https://github.com/user-attachments/assets/5511ffd7-a492-4649-b15b-14154242d951)
+
 ![image](https://github.com/user-attachments/assets/c1920079-9131-42d3-b200-2de6837b8a94)
+
 ![image](https://github.com/user-attachments/assets/8dbb3fed-239e-4665-aef8-b33fe8015c41)
 
-Interpretation :
+🔍Interpretation :
 
 This customer segmentation app provides a visual and analytical way to understand customer behavior by clustering them into distinct groups using K-Means.
 

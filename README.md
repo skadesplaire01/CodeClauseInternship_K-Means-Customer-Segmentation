@@ -48,6 +48,24 @@ screenshots :
 ![image](https://github.com/user-attachments/assets/c1920079-9131-42d3-b200-2de6837b8a94)
 ![image](https://github.com/user-attachments/assets/8dbb3fed-239e-4665-aef8-b33fe8015c41)
 
+Interpretation :
+
+This customer segmentation app provides a visual and analytical way to understand customer behavior by clustering them into distinct groups using K-Means.
+
+By analyzing patterns in features like Annual Income, Age, or Spending Score, businesses can:
+
+- Identify high-value customers (e.g., high income & high spending)
+
+- Spot price-sensitive customers or those with low engagement
+
+- Tailor marketing strategies for each segment
+
+- Improve personalized services and customer retention
+
+The interactive nature of the app—allowing you to test different features and cluster counts—makes it a powerful tool for data exploration and business decision-making.
+
+
+
 
 
 
